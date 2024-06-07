@@ -1,7 +1,7 @@
 {
  "products" : [
   {
-   "name" : "Netflix Premium",
+   "name" : "LARAS",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -10,7 +10,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Disney Plus",
+   "name" : "TELAS PREMIUM",
    "price" : "15.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" },
@@ -21,7 +21,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Canva Pro",
+   "name" : "OPERAÇÕES",
    "price" : "15.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -30,7 +30,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Paramount+",
+   "name" : "CURSOS",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -39,7 +39,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Google Pay + Gift",
+   "name" : "DROPSHIPPING",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -48,7 +48,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Prime Video",
+   "name" : "LOGINS",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -57,7 +57,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Star++ Plus",
+   "name" : "CONTAS GMAIL E OUTLOOK",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -66,7 +66,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Premiere",
+   "name" : "👽 DESBAN WHATSAPP / BAN",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -75,7 +75,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Hbo Max Premium",
+   "name" : "MODELOS HOT 💃",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
@@ -84,7 +84,7 @@
    "description" : "Compre As Melhores Contas Conosco"
   },
   {
-   "name" : "Crunchyroll Premium",
+   "name" : "RATEIO SPY VELOX 🐀",
    "price" : "35.99",
    "options" : [
     { "Size" : "30 DIas,3 Mêses,1 Ano" }
